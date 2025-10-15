@@ -1,4 +1,4 @@
-#🚀 URL Shortener Service
+#URL Shortener Service
 
 URL Shortener Service — это микросервис, который позволяет пользователям брать длинные реферальные ссылки в нашем приложении и сокращать их до коротких, удобных для использования.
 Это особенно полезно для публикаций в социальных сетях, где длинные ссылки выглядят громоздко и занимают много места.
@@ -26,4 +26,7 @@ URL Shortener Service — это микросервис, который позв
 📊 Мониторинг и метрики
 Интеграция с Grafana и Prometheus для отслеживания состояния и производительности системы.
 <img width="664" height="412" alt="3gvkxj80" src="https://github.com/user-attachments/assets/951a75ad-e30b-4339-bbea-5e8bb65094e3" />
+
+Результаты мониторинга:
+<img width="2239" height="914" alt="Снимок экрана 2025-05-24 223518" src="https://github.com/user-attachments/assets/6cb2ad1b-b701-41ba-8df7-e7635a99f2ff" />
 
